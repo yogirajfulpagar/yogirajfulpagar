@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogirajfulpagar
 - 👀 I’m interested in Anime, Soccer and Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Problem Solving in C++, Android Development in Kotlin
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me just remember me
 
