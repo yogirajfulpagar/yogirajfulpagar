@@ -96,7 +96,9 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://open.spotify.com/user/913lqo85pykb8qsosb9567yyx">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=913lqo85pykb8qsosb9567yyx&count=5&unique=true" alt="Spotify recently played"  />
   </a>
@@ -109,5 +111,29 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogirajfulpagar/yogirajfulpagar/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yogirajfulpagar/yogirajfulpagar/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img align="left" height="200" src="https://media.tenor.com/_l_5p1vtSE0AAAAM/chiens-funnyanimals.gif"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://usersnap.com/blog/wp-content/uploads/2015/12/funny-cat-year2015-web-dev.gif"  />
+</div>
+
+###
+
+<img align="left" height="200" src="https://nurseslabs.com/wp-content/uploads/2015/03/reactiongifs-52.gif"  />
+
+###
+
+<img align="left" height="200" src="https://media.tenor.com/E7j4VcIBUhsAAAAM/claire-dancing.gif"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/CbNPBvfH4uMRsV3yvV/giphy.gif?cid=6c09b9520a6hhdu8l1adfu00052jib288sh75xs3nqe29mbt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
